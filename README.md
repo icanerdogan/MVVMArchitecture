@@ -1,5 +1,5 @@
 # MVVM Architecture
-1st Week in  Logo Yazılım @logo-group Intership
+<b> 1st Week in  Logo Yazılım (@logo-group) Intership </b>
 
 App             |  Book Listed 
 :-------------------------:|:-------------------------:
